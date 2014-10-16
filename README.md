@@ -1,2 +1,2 @@
-UKM-jtlf.device.config
-======================
+UKM-SGH-M919.device.config
+==========================
